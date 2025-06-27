@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/0d6c998b-ea15-4dfd-afaf-335d350e2d39)
 <h1 align="center">Hi 👋, I'm Agus Dominguez</h1>
 <h3 align="center">A technology enthusiast from Río Cuarto, Argentina 🇦🇷</h3>
 
