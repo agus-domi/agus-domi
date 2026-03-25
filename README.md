@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agus Dominguez</h1>
 <h3 align="center">A technology enthusiast from Río Cuarto, Argentina 🇦🇷</h3>
 
-- 🔭 I’m currently studying on **ProA Desarrollo de Software**
+- 🔭 I’m currently studying on **Universidad Nacional de Río Cuarto**
 
 - 🌱 I’m currently learning **Python, C++, Javascript**
 
