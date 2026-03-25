@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/agus-domi](https://github.com/agus-domi)
 
-- 📫 How to reach me **agusedominguez@gmail.com**
+- 📫 How to reach me **dominguezeagus@gmail.com**
 
 - ⚡ Fun fact **I think i am passionate and curious**
 
