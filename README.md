@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/agus-domi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Systems+Student;Python+%7C+C%2B%2B+%7C+JavaScript;Always+learning+new+technologies;Passionate+about+coding+and+innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Computer+Sciences+Student;Python+%7C+C%2B%2B+%7C+JavaScript;Always+learning+new+technologies;Passionate+about+coding+and+innovation" alt="Typing SVG" />
   </a>
 </p>
 
