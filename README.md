@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-🎓 Systems/Technology student at **Universidad Nacional de Río Cuarto**  
+🎓 Computer Sciences student at **Universidad Nacional de Río Cuarto**  
 🌱 Currently learning **Python, C++ and JavaScript**  
 💡 Interested in **software development, automation and technology**  
 ⚡ Fun fact: *I’m passionate, curious and always eager to learn new things*  
